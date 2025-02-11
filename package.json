@@ -76,7 +76,7 @@
   "dependencies": {
     "@vscode/extension-telemetry": "0.6.2",
     "node-fetch": "2.6.9",
-    "semver": "7.3.8",
+    "semver": "7.7.1",
     "uuid": "9.0.0",
     "vscode-languageclient": "8.1.0",
     "vscode-languageserver-protocol": "3.17.3"
@@ -95,8 +95,8 @@
     "@typescript-eslint/eslint-plugin": "5.53.0",
     "@typescript-eslint/parser": "5.54.0",
     "@vscode/test-electron": "2.2.3",
-    "@vscode/vsce": "2.18.0",
-    "esbuild": "0.17.10",
+    "@vscode/vsce": "2.32.0",
+    "esbuild": "0.25.0",
     "eslint": "8.34.0",
     "eslint-plugin-header": "3.1.1",
     "glob": "8.1.0",
